@@ -159,7 +159,5 @@ autocorrelation_analysis.py
 README.md
 ```
 
-## License
 
-Add the license appropriate for your intended use before distributing or archiving the repository.
 
