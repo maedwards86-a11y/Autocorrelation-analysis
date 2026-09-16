@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Autocorrelation Analysis of Time-Series Intensity Traces"
+type: software
+authors:
+  - family-names: "Edwards"
+    given-names: "Marc"
+version: 1.0.0
+license: MIT
+abstract: >-
+  Python script for calculating normalized autocorrelation curves from
+  time-series intensity traces and estimating oscillation periods from the
+  first qualifying non-zero autocorrelation peak.
+keywords:
+  - autocorrelation
+  - time-series analysis
+  - oscillations
+  - fluorescence microscopy
+  - Python
+references:
+  - type: article
+    title: "Atypical PI3Ks coordinate chemotaxis, signaling dynamics, and multicellular development in Dictyostelium"
+    doi: "10.1242/jcs.265041"
